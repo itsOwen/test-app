@@ -1,0 +1,4 @@
+/Users/owen/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/owen/AndroidStudioProjects/CoCBot/opencv/.cxx/Debug/3y395c1b/x86_64 \
+  opencv_jni_shared
